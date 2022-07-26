@@ -1,0 +1,37 @@
+.club-cards{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: lightgrey;
+    box-sizing: border-box;
+}
+
+/* .players{
+    display: flex !important;
+    flex-flow: column wrap !important;
+    background-color: red !important;
+} */
+.register{
+    display: flex;
+    justify-content: center;
+}
+
+.players{
+    display: flex;
+    flex-flow: column wrap;
+    border-radius: 8px;
+    align-items: center;
+    padding: 20px 0px 20px 0px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.cards-alignment{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}

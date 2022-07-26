@@ -1,0 +1,2 @@
+=== YITH Plugin Skeleton ===
+
